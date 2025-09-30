@@ -1,5 +1,5 @@
 # CV - flutter web
-- RU
+- **RU** 
   Динамичный сайт-резюме, созданный на Flutter, демонстрирующий креативные анимации и современный UI.
-- EN
+- **EN** 
   A dynamic resume site built with Flutter, showcasing creative animations and modern UI capabilities.
